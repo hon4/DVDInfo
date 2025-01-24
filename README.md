@@ -2,7 +2,7 @@
 
 # DVDInfo Official GitHub Page
 
-For downloads see the [Official Website](https://hdvdinfo.sourceforge.io/){:target="_blank"} or the [DVDInfo SourceForge Page](https://sourceforge.net/projects/hdvdinfo/){:target="_blank"}!
+For downloads see the [Official Website](https://hdvdinfo.sourceforge.io/) or the [DVDInfo SourceForge Page](https://sourceforge.net/projects/hdvdinfo/)!
 
 ## Requirements
 1. .NET Framework 4.0
