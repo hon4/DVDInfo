@@ -14,4 +14,12 @@ For downloads see the [DVDInfo Official Website](https://hdvdinfo.sourceforge.io
 ## Version List
 | Version |
 |---------|
+| 1.2.2r0 |
+| 1.2.1r0 |
+| 1.2.0r0 |
+| 1.1.0r0 |
+| 1.0.1r5 |
+| 1.0.1r4 |
+| 1.0.1r2 |
+| 1.0.1r0 |
 | 1.0.0r0 |
