@@ -14,7 +14,7 @@ For downloads see the [DVDInfo Official Website](https://hdvdinfo.sourceforge.io
 ## Version List
 | Version | .NET Framework | SourceForge | Notes    |
 |---------|----------------|-------------|----------|
-| 1.2.2r0 | 4.0            | [Link]([https://hdvdinfo.sourceforge.io/](https://sourceforge.net/projects/hdvdinfo/files/v1.2.2%20r0%20%28v1220%29/)) | *Latest* |
+| 1.2.2r0 | 4.0            | [Link](https://sourceforge.net/projects/hdvdinfo/files/v1.2.2%20r0%20%28v1220%29/) | *Latest* |
 | 1.2.1r0 | 4.0            |             |          |
 | 1.2.0r0 | 4.0            |             |          |
 | 1.1.0r0 | 4.0            |             |          |
